@@ -1,0 +1,2 @@
+- Circles expand their radius over time.
+- Click on the window to start the radius over at a new point.
